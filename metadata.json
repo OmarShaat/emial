@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Assistant",
+  "description": "An intelligent virtual assistant that prioritizes urgent emails, filters junk, and instantly extracts verification codes directly from your inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
